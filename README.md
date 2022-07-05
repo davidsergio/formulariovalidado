@@ -4,9 +4,9 @@ Necessário o preenchimento de todos os campos ou haverá uma notificação info
 
 O campo CPF possui validação e é necessário que seja cadastrado um CPF válido.
 
-No campo data de nascimento não é impossivel o cadastro de um valor futuro, por isso só é válido o cadastro de uma data de até no maximo o dia de hoje.
+No campo data de nascimento não é possivel o cadastro de um valor futuro, por isso só é válido o cadastro de uma data até no maximo o dia de hoje.
 
-A senha precisa ser exatamente igual pra ser aceita, podendo ser usado qualquer tipo e quantidade de caracteres.
+A senha precisa ser exatamente igual pra ser aceita, podendo ser usado qualquer tipo e quantidade de caractere.
 
 Ao preencher todo o formulário e clicar em Cadastrar, caso esteja tudo OK, será emitido um alerta confirmando o cadastro.
 
