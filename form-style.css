@@ -1,0 +1,16 @@
+body{
+    background:rgb(43,103,46);background:linear-gradient(218deg,rgba(43,103,46,1)0%,rgba(29,64,31,1)4%,rgba(25,28,25,1)22%,rgba(10,10,10,1)100%);
+   
+   }
+
+.form-style{
+    width: 400px;
+    margin: 50px;
+    border: auto;
+    color: rgb(255, 255, 255);
+    font-family:'verdana';
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+}
